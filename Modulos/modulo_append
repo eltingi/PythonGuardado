@@ -1,0 +1,15 @@
+
+
+
+import sys
+
+#ruta donde esta alojado el modulo necesario
+sys.path.append("C:\\Users\\Maury\\PROGRAMAS\\Python Cursito\\Modulos\\funciones_buenas")
+
+print(sys.path)
+
+#luego importop el modulo y le doy un alias
+import saludar as modulo_saludo
+
+print(modulo_saludo.saludar("Mauriciooo "))
+

@@ -1,0 +1,14 @@
+Los datos son los siguientes: 
+
+Nombres: Mauricio
+Apellido: S 
+-------------
+Nombres: Marcos
+Apellido: M 
+-------------
+Nombres: Pedro
+Apellido: P 
+-------------
+Nombres: Pablo
+Apellido: P2 
+-------------
